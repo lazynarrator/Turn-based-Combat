@@ -1,6 +1,5 @@
 # Turn-based-Combat
  Prototype turn-based RPG. Gameplay on YouTube https://youtu.be/kJSZ6NXJfIA
- 
  Файл игры Turn-based Combat.exe в Build.zip в корне.
  
  - Минимальный бой, на манер игры Iratus https://store.steampowered.com/app/807120/Iratus_Lord_of_the_Dead/
